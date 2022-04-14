@@ -92,7 +92,6 @@ alias p="cd /Users/ryanlemes/Projects"
 alias c="clear"
 alias mk="make"
 alias clone="git clone"
-alias ecr-oregon-login="aws --region us-west-2 ecr get-login-password | docker login --username AWS --password-stdin 762201808337.dkr.ecr.us-west-2.amazonaws.com"
 alias docker=podman
 alias zshconfig="nano ~/.zshrc"
 
